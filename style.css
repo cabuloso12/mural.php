@@ -43,9 +43,10 @@ body{
 	font-size: 18px;
 	font-style: normal;
 	font-weight: bold;
-	color: #990000;
+	color: #6b0000;
 	margin-top: 20px;
 	margin-left: 5px;
+	align-items: center;
 }
 #header p {
 	font-size: 13px;
